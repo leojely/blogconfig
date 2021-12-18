@@ -1,0 +1,8 @@
+<style>
+  .is-head-transparent .logo-default,
+  .dark .logo-default { display: none !important }
+
+  .is-head-transparent:not(.has-menu) .logo-dark-mode,
+  .dark .logo-dark-mode { display: block }
+    ::selection { color: #fff; background-color: red; }
+</style>
