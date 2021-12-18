@@ -1,0 +1,6 @@
+ "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  }
